@@ -1,6 +1,6 @@
-# GirlfriendGPT - Your personal AI companion
+# Promotion Girl GPT - Your personal AI companion
 
-Welcome to the GirlfriendGPT repository. This is a starter project to help you build your personalized AI companion with a unique personality, voice, and even SELFIES!
+The "Promotion Girl GPT" project revolutionizes in-store marketing by employing AI-driven virtual assistants to enhance product promotion. This innovative system utilizes advanced language models to create compelling promotional content, aiding businesses in crafting engaging narratives for their products. These virtual promotion girls assist in generating persuasive scripts, product descriptions, and marketing materials tailored to specific audiences. Seamlessly integrated into the production process, the project optimizes efficiency and creativity, ensuring a dynamic and appealing shopping experience. By leveraging the power of AI, the Promotion Girl GPT project not only streamlines promotional efforts but also elevates the overall production and marketing strategies for retail establishments.
 
 ## Demo
 Click the image below for a demo:
